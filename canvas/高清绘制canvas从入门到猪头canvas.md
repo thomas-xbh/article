@@ -1,6 +1,6 @@
 ---
 link: https://juejin.cn/post/7119495608938790942
-title: canvas-高清绘制canvas从入门到猪头canvas-应用大全canvas - 基础了解Canvas 从入门到劝朋友放弃（图解版）
+title: canvas-高清绘制canvas从入门到猪头canvas - 基础了解canvas-应用大全canvas-简单的动画
 description: Canvas在刚推出时主打的优势就是更快的渲染速度，刷新了人们对Web页面元素绘制速度的印象，但Canvas的优势却不仅限于此。
 keywords: 前端,Canvas
 author: 首页 首页 沸点 课程 直播 活动 竞赛 商城 App 插件 搜索历史 清空 创作者中心 写文章 发沸点 写笔记 写代码 草稿箱 创作灵感 查看更多 会员 登录 注册
