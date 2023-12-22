@@ -4,3 +4,4 @@
 4. git checkout -b newBranch：创建并切换分支
 5. git checkout main：切换分支
 6. git merge feature：合并分支
+7. git config --add gitflow.multi-hotfix true  允许多个hotfix分支
